@@ -1,3 +1,4 @@
 基本的なワークフローを学んでいきます。
 ・git add
 ・git commit
+/git
